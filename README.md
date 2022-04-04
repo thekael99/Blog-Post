@@ -49,7 +49,7 @@ The house-prices folder contains all the data to use. Detailed information about
 
 ## Summary<a name="summary"></a>
 
-I have created a blog about this project, you can see it here
+I have created a blog about this project, you can see it [here](https://thekael99.github.io)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
